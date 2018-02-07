@@ -1,0 +1,26 @@
+{
+  "name": "campaign",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dladowitz/campaign.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dladowitz/campaign/issues"
+  },
+  "homepage": "https://github.com/dladowitz/campaign#readme",
+  "dependencies": {
+    "fs-extra": "^5.0.0",
+    "ganache-cli": "^6.0.3",
+    "mocha": "^5.0.0",
+    "solc": "^0.4.19",
+    "web3": "^1.0.0-beta.27"
+  }
+}
